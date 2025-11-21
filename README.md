@@ -6,6 +6,10 @@ I am a new grad from BU CS with a passion for building tools that make everyday 
   Interests: 🧶 Knitting, 🏂 Snowboarding, 🎥 Movies 
 
 I love learning and creating, whether its writing code or crafting something with my hands! Feel free to reach out or check out my portfolio site.
+
+I am currently working on a music genre classifier CNN. Check out the colab [here](https://colab.research.google.com/drive/1e4KakzINDiOdfTeC1IUhZrMX4aigIHuM?usp=sharing)
+
+
 <!--
 **gwenstew/gwenstew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
