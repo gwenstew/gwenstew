@@ -2,7 +2,7 @@ Hello! 👋
 
 I am a new grad from BU CS with a passion for building tools that make everyday life a little easier. I am currently pursuing opportunities in **data engineering**, **software engineering** and **computer graphics**.
 
-  Favorite languages (in order): C/C++, Python, Java   
+  Favorite languages (in order): C++, C, Python, Java   
   Interests: 🧶 Knitting, 🏂 Snowboarding, 🎥 Movies 
 
 I love learning and creating, whether its writing code or crafting something with my hands! Feel free to reach out or check out my portfolio site.
