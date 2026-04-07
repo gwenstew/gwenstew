@@ -1,6 +1,6 @@
 Hello! 👋 
 
-I am a new grad from BU CS with a passion for building tools that make everyday life a little easier. I am currently pursuing opportunities in **data engineering**, **software engineering** and **computer graphics**.
+I am a new grad from BU CS who enjoys working with data and solving problems. I am currently pursuing opportunities in **data engineering**, **software engineering** and **computer graphics**.
 
   Favorite languages (in order): C++, C, Python, Java   
   Interests: 🧶 Knitting, 🏂 Snowboarding, 🎥 Movies 
@@ -8,6 +8,8 @@ I am a new grad from BU CS with a passion for building tools that make everyday 
 I love learning and creating, whether its writing code or crafting something with my hands! Feel free to reach out or check out my portfolio site.
 
 I am currently working on a music genre classifier CNN. Check out the colab [here](https://colab.research.google.com/drive/1e4KakzINDiOdfTeC1IUhZrMX4aigIHuM?usp=sharing)
+
+Or check out my movie recommendation system [here](https://colab.research.google.com/drive/1GejjtjOV7NGvDmFlcgZ347K5TeB0SWKI?usp=sharing)
 
 
 <!--
