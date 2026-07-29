@@ -1,6 +1,6 @@
 Hello! 👋 
 
-I am a new grad from BU CS who enjoys working with data and solving problems. I am currently pursuing opportunities in **data engineering**, **software engineering** and **computer graphics**.
+I am a new grad from BU CS who enjoys working with data, solving problems and creating. 
 
   Favorite languages (in order): C++, C, Python, Java   
   Interests: 🧶 Knitting, 🏂 Snowboarding, 🎥 Movies 
